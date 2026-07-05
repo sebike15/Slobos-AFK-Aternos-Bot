@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "keepzone.aternos.me:53944",
+    "port": 53944,
     "version": "",
     "try-creative": false
   },
